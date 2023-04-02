@@ -1,2 +1,6 @@
 # Vid2Img
-The script extracts frames from a video in the script directory based on the selected frame rate (FPS). It supports GPU processing and allows saving the frames in JPG or PNG format in the "Export" folder.
+This script automatically extracts frames from a video file in the script directory by allowing the user to select the frame rate (FPS) for export. 
+It offers GPU support for more efficient processing and allows saving the exported images in either JPG or PNG format. 
+The resulting images are saved in the "Export" folder of the script directory.
+
+CV2 Module is needed.
